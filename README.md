@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to XYZ
 
 You can use the [editor on GitHub](https://github.com/GS88XD/Cool-New-Website-Test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
